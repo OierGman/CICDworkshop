@@ -11,4 +11,3 @@ def test_multiply():
     assert multiply(2, 2) == 4
     assert multiply(5, 5) == 25
     assert multiply(100000000000000, 2) == 200000000000000
-    # assert False, "please implement the rest of this test"
